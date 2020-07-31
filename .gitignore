@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+data/
+*.blend
+external/ss-pybullet
+.vscode/
+external/
